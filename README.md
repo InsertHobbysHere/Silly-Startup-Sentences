@@ -2,6 +2,9 @@
 Prints 20 randomised silly startup sentences that make your run terminal look more original
 
 
+#to install just drag the sss.py in the same folder as the project you want to use it in
+
+
 #to import use
 import sss
 
